@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hello, world! 👋
+
+- 👨🏽‍💻 I am a Computer Science student @ Tecnológico de Monterrey.
+- 📫 How to reach me: contact@joaquinmx.com. 
+- ⚡ Fun fact: I love to see maps and explore the world in Street View! 
+- 🌀 Former Software Developer Intern @ Epicor Software with experience in fullstack web development!
+- 🦆 My interests are back-end development, DevOps, Machine Learning and Data Science. 
+
+![Joaquin's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaquinmx)
