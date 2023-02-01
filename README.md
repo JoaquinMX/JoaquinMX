@@ -17,12 +17,9 @@ Here are some ideas to get you started:
 
 - 👨🏽‍💻 I am a Computer Science student @ Instituto Tecnológico y de Estudios Superiores de Monterrey - ITESM.
 - 📫 How to reach me: contact@joaquinmx.com.
-- 🌀 Former Software Developer Intern @ [Softtek](https://www.softtek.com/)
-- 🌀 Former Software Developer Intern @ [NIC México](https://www.nicmexico.mx/)
-- 🌀 Former Frontend Developer Intern @ [Vinco](https://www.vincoed.com/)
-- 🌀 Former Frontend Developer @ Hashead
+- 🌀 Former Software Developer Intern @ [Softtek](https://www.softtek.com/), [NIC México](https://www.nicmexico.mx/), [Vinco](https://www.vincoed.com/), and Hashead.
 - 🌱 I’m currently learning crossplatform development with Flutter.
-- 🦆 My interests are Front-end development, Crossplatform, and DAPPs.
+- 🦆 My interests are Front-end and Mobile development.
 - ⚡ Fun fact: I'm the official e-Sports caster of my university!
 
 ![Joaquin's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaquinmx)
