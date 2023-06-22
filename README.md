@@ -21,5 +21,3 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning crossplatform development with Flutter.
 - 🦆 My interests are Front-end and Mobile development.
 - ⚡ Fun fact: I'm the official e-Sports caster of my university!
-
-![Joaquin's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaquinmx)
