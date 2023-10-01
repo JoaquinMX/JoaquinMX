@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 # Hello, world! 👋
 
-- 👨🏽‍💻 I am a Computer Science student @ Instituto Tecnológico y de Estudios Superiores de Monterrey - ITESM.
+- 👨🏽‍💻 I am new graduated student of Computer Science @ Instituto Tecnológico y de Estudios Superiores de Monterrey - ITESM.
 - 📫 How to reach me: contact@joaquinmx.com.
-- 🌀 Former Software Developer Intern @ [Softtek](https://www.softtek.com/), [NIC México](https://www.nicmexico.mx/), [Vinco](https://www.vincoed.com/), and Hashead.
-- 🌱 I’m currently learning crossplatform development with Flutter.
+- 🌀 My preferred technical stack is Flutter-Firebase, but I have also work with React.js, Ionic, Angular, Node.js, Express, MongoDB, PostgreSQL and MySQL.
+- 🌱 I’m currently getting deeper knowledge in crossplatform development with Flutter.
 - 🦆 My interests are Front-end and Mobile development.
-- ⚡ Fun fact: I'm the official e-Sports caster of my university!
+- ⚡ Fun fact: I'm an e-Sports caster in my freetime!
