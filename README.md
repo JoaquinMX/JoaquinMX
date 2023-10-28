@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on break into the industry using Flutter as framework.<br>💬 Ask me about anything related to Flutter, I don't know all but I'll try to help.<br>📫 How to reach me: contact@joaquinmx.com.<br>⚡ Fun fact: I'm an e-Sports caster in my freetime!<br>
+🔭 I’m currently working on break into the industry using Flutter as framework.<br>💬 Ask me about anything related to Flutter, I don't know all but I'll try to help.<br>📫 How to reach me: contact@joaquinmx.com.<br>⚡ Fun fact: I'm an e-Sports caster in my freetime!<br>Checkout my website to see my work! https://joaquinmx.com/<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joaquinmx/) 
