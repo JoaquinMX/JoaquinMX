@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Flutter Developer and looking to embark on new projects!<br>💬 Ask me about anything related to Flutter, I don't know it all, but I'll try to help.<br>📫 How to reach me: contact@joaquinmx.com.<br>⚡ Fun fact: I'm an e-Sports caster in my free time!<br>Checkout my website to see my work! https://joaquinmx.com/<br>
+🔭 I worked as a Software Engineer mainly using Flutter and MSSQL. I'm looking to embark on new projects!<br>💬 Reach out to me if you need help with software Engineering-related topics.<br>📫 How to reach me: contact@joaquinmx.com.<br>⚡ Fun fact: I'm an e-Sports caster in my free time!<br> Check out my website to see my work! https://joaquinmx.com/<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joaquinmx/) 
